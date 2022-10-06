@@ -84,10 +84,12 @@ namespace RandomImage
 
         public void OnBotOnline((Bot s, BotOnlineEvent e) obj, string botName, uint botUin)
         {
+            Console.WriteLine("Online");
         }
 
         public void OnBotOffline((Bot s, BotOfflineEvent e) obj, string botName, uint botUin)
         {
+            Console.WriteLine("Offline");
         }
     }
 }
