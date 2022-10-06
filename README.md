@@ -18,7 +18,7 @@
 
 ## 下载
 
-- [最新编译版](https://github.com/SweelLong/RandomImage/releases/tag/v0.1.0)
+- [最新编译](https://github.com/SweelLong/RandomImage/releases/tag/v0.1.0)
 - 自行编译
 
 ## 关于
