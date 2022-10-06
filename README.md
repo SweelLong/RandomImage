@@ -15,3 +15,7 @@
 - 【图】只需包含该文字即可触发随机图片
 - 【api】只需包含该文字即可查看API的信息
 - 【newapi】文字的开头为这个关键词才会触发即可修改api
+
+## 相关指令
+
+- [前往QQBotHub的开源仓库](https://github.com/yiyungent/QQBotHub)
