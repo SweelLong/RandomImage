@@ -16,6 +16,11 @@
 
 - [关于API的获取](https://blog.csdn.net/likepoems/article/details/123924270)
 
+## 下载
+
+- [最新编译版](https://github.com/SweelLong/RandomImage/releases/tag/v0.1.0)
+- 当然你可以自行编译
+
 ## 关于
 
 - [前往QQBotHub的开源仓库](https://github.com/yiyungent/QQBotHub)
