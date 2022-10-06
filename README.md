@@ -18,8 +18,8 @@
 
 ## 下载
 
-- [最新编译](https://github.com/SweelLong/RandomImage/releases/tag/v0.1.0)
-- 自行编译
+- [已编译但并非最新代码](https://github.com/SweelLong/RandomImage/releases/tag/v0.1.0)
+- 可自行下载源码并编译
 
 ## 关于
 
