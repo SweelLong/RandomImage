@@ -19,3 +19,7 @@
 ## 相关指令
 
 - [前往QQBotHub的开源仓库](https://github.com/yiyungent/QQBotHub)
+
+## 其他
+
+- 实际上已经开发出了防撤回、防闪图、爬取翻译等功能，暂时不公开仓库
